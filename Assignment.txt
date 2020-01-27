@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Images</h2>
+<p>HTML images are defined with the img tag:</p>
+<p1>I'm Shafin Arafat. I am doing my under graduation in Brac University. This is my 11th semester. That's all </p1>
+
+<img src="file:///C:/Users/16204040/Desktop/New%20folder/shafin%20photo.jpg"alt="wallpaper" width="550" height="650">
+
+</body>
+</html>
